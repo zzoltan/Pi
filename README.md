@@ -1,2 +1,2 @@
-# Pi
+# JSX
 Created with CodeSandbox
